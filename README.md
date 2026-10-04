@@ -15,7 +15,7 @@ I love **solving messy problems**, **building from scratch**, and **making compl
 🏗️ Designing scalable, distributed systems  
 ☁️ Building cloud infrastructure  
 🧩 Finding elegant solutions to complex challenges  
-📉 Untangling architectural spaghetti
+📉 Untangling architectural chaos
 
 ---
 
