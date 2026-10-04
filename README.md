@@ -11,10 +11,11 @@
 ## 🎯 What I Do
 
 I love **solving messy problems**, **building from scratch**, and **making complicated systems feel simple**. I spend my time:
-- 🏗️ Designing scalable, distributed systems
-- ☁️ Building cloud infrastructure
-- 🧩 Finding elegant solutions to complex challenges
-- 📉 Untangling architectural spaghetti
+
+🏗️ Designing scalable, distributed systems  
+☁️ Building cloud infrastructure  
+🧩 Finding elegant solutions to complex challenges  
+📉 Untangling architectural spaghetti
 
 ---
 
