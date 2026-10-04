@@ -31,7 +31,7 @@ I love **solving messy problems**, **building from scratch**, and **making compl
 ![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=java&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1E3932?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34C26?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=windowsazure&logoColor=white)
 
