@@ -31,10 +31,10 @@ I love **solving messy problems**, **building from scratch**, and **making compl
 [![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
 ### Specialties
-- ⚙️ Distributed Systems
-- ☁️ Cloud Infrastructure  
-- 🏛️ System Architecture
-- 🔧 Infrastructure as Code
+⚙️ Distributed Systems  
+☁️ Cloud Infrastructure  
+🏛️ System Architecture  
+🔧 Infrastructure as Code
 
 </div>
 
