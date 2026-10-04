@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" width="30" height="30" /> Hey, I'm Alison
+# 👋 Hey, I'm Alison
 
 <div align="center">
   
