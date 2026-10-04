@@ -45,7 +45,9 @@ I love **solving messy problems**, **building from scratch**, and **making compl
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/allyyim)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-4A90E2?style=for-the-badge)](https://portfolio-tau-flax-76.vercel.app/about)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisonyim3@gmail.com)
 
 </div>
