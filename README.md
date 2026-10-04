@@ -30,6 +30,7 @@ I love **solving messy problems**, **building from scratch**, and **making compl
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)](https://learn.microsoft.com/en-us/powershell/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=windowsazure&logoColor=white)](https://azure.microsoft.com/)
 
