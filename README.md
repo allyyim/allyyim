@@ -1,4 +1,4 @@
-# ![wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif) Hey, I'm Alison
+# <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" width="50" height="50" /> Hey, I'm Alison
 
 <div align="center">
   
