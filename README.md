@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alison
+# ![wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif) Hey, I'm Alison
 
 <div align="center">
   
